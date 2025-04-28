@@ -1,0 +1,6 @@
+[submodule "domestic-imagen"]
+	path = domestic-imagen
+	url = https://github.com/oio/domestic-imagen
+[submodule "domestic-rembg"]
+	path = domestic-rembg
+	url = https://github.com/oio/domestic-rembg
