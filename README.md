@@ -20,7 +20,8 @@ If you just need to update an existing tool, you can just  edit it from its fold
 
 1. Make your edits within the submodule's folder.
 1. Move to the Domestic Tools repo via `cd [PATH_TO_YOUR_oio-domestic-ai-tools]`
-1. ```git add .
+1. ```
+	git add .
 	git commit -m 'added new submodule with name [NAME_OF_THE_SUBMODULE]'
 	git push -u origin HEAD:main
 	```
