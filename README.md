@@ -19,7 +19,6 @@ A tool is an independent applet that runs on a specific port in your computer. P
 If you just need to update an existing tool, you can just  edit it from its folder inside this repo, and then update this repo with the pushed changes. Here's how to do it.
 
 1. Make your edits within the submodule's folder.
-1. .
 1. Move to the Domestic Tools repo via `cd [PATH_TO_YOUR_oio-domestic-ai-tools]`
 1. ```git add .
 	git commit -m 'added new submodule with name [NAME_OF_THE_SUBMODULE]'
